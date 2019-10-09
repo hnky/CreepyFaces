@@ -14,7 +14,7 @@ The main idea is to use [Microsoft Face API](https://docs.microsoft.com/azure/co
 
 This technique was originally proposed by [Dmitry Soshnikov](http://soshnikov.com) and called **Cognitive People Blending**. If you develop something substantially interesting, please share your results/feedback/ideas [with him](http://facebook.com/shwars).
 
-<a href="https://notebooks.azure.com/import/gh/CloudAdvocacy/CreepyFaces"><img src="https://notebooks.azure.com/launch.png" /></a>
+<a href="https://notebooks.azure.com/import/gh/hnky/CreepyFaces"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 ## How to use this tutorial
 
@@ -25,7 +25,7 @@ This repo contains the following files with demo code:
 
 You should probably start with **CreepyFace-Tutorial**. You can do it in one of the following ways:
 
-* **Recommended** [Clone the repo in Azure Notebooks](https://notebooks.azure.com/import/gh/CloudAdvocacy/CreepyFaces), and then run the code in the cloud
+* **Recommended** [Clone the repo in Azure Notebooks](https://notebooks.azure.com/import/gh/hnky/CreepyFaces), and then run the code in the cloud
 * Clone the repo using `git clone`, and use localy installed Jupyter to run it
 
 ## Obtaining Face API keys
